@@ -146,4 +146,8 @@ sls
 
 AWS -Node.js - Express API with dybnamodb
 
-npm install uuid
+npm install uuid aws-sdk
+
+npm i
+
+when is created on the cloud go to apiGateway and deploy the API
